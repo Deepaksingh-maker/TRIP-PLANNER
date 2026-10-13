@@ -1,0 +1,6 @@
+streamlit
+folium
+streamlit-folium
+streamlit-option-menu
+pandas
+matplotlib
